@@ -1,8 +1,8 @@
-https://harry-1012.github.io/blog/p/27873/
-https://harry-1012.github.io/blog/about/index.html
-https://harry-1012.github.io/blog/p/23355/
-https://harry-1012.github.io/blog/contact/index.html
-https://harry-1012.github.io/blog/404/index.html
-https://harry-1012.github.io/blog/tags/index.html
-https://harry-1012.github.io/blog/categories/index.html
-https://harry-1012.github.io/blog
+https://harry-studio.github.io/blog/about/index.html
+https://harry-studio.github.io/blog/p/27873/
+https://harry-studio.github.io/blog/p/23355/
+https://harry-studio.github.io/blog/contact/index.html
+https://harry-studio.github.io/blog/404/index.html
+https://harry-studio.github.io/blog/tags/index.html
+https://harry-studio.github.io/blog/categories/index.html
+https://harry-studio.github.io/blog
