@@ -20,6 +20,17 @@
     
     
     <entry>
+      <title>🤝 About Me</title>
+      <link href="/blog/about/index.html"/>
+      <url>/blog/about/index.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="👋-Hello-I’m-Harry"><a href="#👋-Hello-I’m-Harry" class="headerlink" title="👋 Hello, I’m Harry"></a>👋 Hello, I’m Harry</h2><p>I’m an <strong>independent developer</strong> passionate about creating meaningful applications that respect user freedom and privacy.</p><hr><h2 id="💡-My-Philosophy"><a href="#💡-My-Philosophy" class="headerlink" title="💡 My Philosophy"></a>💡 My Philosophy</h2><p>I believe in the power of <strong>small but beautiful apps</strong> — tools that do one thing exceptionally well without unnecessary complexity. </p><p><strong>Your data belongs to you.</strong> I’m committed to building applications where your personal information stays in your hands, not uploaded to corporate servers for advertising or profit. In an era of data exploitation, I believe it’s time for software to return to its essence: serving users, not surveilling them.</p><blockquote><p><em>Privacy is not about having something to hide. It’s about having something to protect: your autonomy, your dignity, and your right to be yourself.</em></p></blockquote><hr><h2 id="🎯-What-I-Do"><a href="#🎯-What-I-Do" class="headerlink" title="🎯 What I Do"></a>🎯 What I Do</h2><p>I create tools that:</p><ul><li>✨ Prioritize user experience over feature bloat</li><li>🔒 Keep your data local and secure</li><li>🌱 Respect your time and attention</li><li>🚀 Focus on simplicity and elegance</li></ul><p>Every line of code I write is guided by one principle: <strong>technology should empower individuals, not exploit them.</strong></p><hr><h2 id="🏃‍♂️-Beyond-the-Screen"><a href="#🏃‍♂️-Beyond-the-Screen" class="headerlink" title="🏃‍♂️ Beyond the Screen"></a>🏃‍♂️ Beyond the Screen</h2><p>When I’m not coding, you’ll find me:</p><ul><li>🛹 <strong>Skateboarding</strong> through city streets</li><li>🚴 <strong>Cycling</strong> on scenic routes</li><li>🚶 <strong>Power walking</strong> to clear my mind</li></ul><p>These activities remind me that the best solutions often come when we step away from the keyboard and reconnect with the physical world.</p><hr><h2 id="🌍-My-Values"><a href="#🌍-My-Values" class="headerlink" title="🌍 My Values"></a>🌍 My Values</h2><ul><li><strong>User sovereignty</strong>: You should control your technology, not the other way around</li><li><strong>Digital minimalism</strong>: Less is more when it comes to features</li><li><strong>Open communication</strong>: Transparency builds trust</li><li><strong>Continuous learning</strong>: Every project is an opportunity to grow</li><li><strong>Sustainability</strong>: Building for the long term, not quick profits</li></ul><hr><h2 id="📬-Get-in-Touch"><a href="#📬-Get-in-Touch" class="headerlink" title="📬 Get in Touch"></a>📬 Get in Touch</h2><p>I’m always excited to connect with fellow developers, designers, and users who share these values.</p><ul><li>📧 Email: <a href="mailto:&#x68;&#x61;&#x6f;&#108;&#x65;&#105;&#x71;&#64;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#46;&#99;&#x6f;&#109;">haoleiq@gmail.com</a></li><li>🌐 Website: <a href="https://harry-studio.github.io/app">harry-studio.github.io&#x2F;app</a></li></ul><p>Whether you have a question, feedback, or just want to chat about technology and user freedom, feel free to reach out!</p><hr><p><em>“The best technology is the technology you don’t notice — it simply works, respects you, and gets out of your way.”</em></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>404</title>
       <link href="/blog/404/index.html"/>
       <url>/blog/404/index.html</url>
@@ -31,33 +42,11 @@
     
     
     <entry>
-      <title>🤝 About Me</title>
-      <link href="/blog/about/index.html"/>
-      <url>/blog/about/index.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="👋-Hello-I’m-Harry"><a href="#👋-Hello-I’m-Harry" class="headerlink" title="👋 Hello, I’m Harry"></a>👋 Hello, I’m Harry</h2><p>I’m an <strong>independent developer</strong> passionate about creating meaningful applications that respect user freedom and privacy.</p><hr><h2 id="💡-My-Philosophy"><a href="#💡-My-Philosophy" class="headerlink" title="💡 My Philosophy"></a>💡 My Philosophy</h2><p>I believe in the power of <strong>small but beautiful apps</strong> — tools that do one thing exceptionally well without unnecessary complexity. </p><p><strong>Your data belongs to you.</strong> I’m committed to building applications where your personal information stays in your hands, not uploaded to corporate servers for advertising or profit. In an era of data exploitation, I believe it’s time for software to return to its essence: serving users, not surveilling them.</p><blockquote><p><em>Privacy is not about having something to hide. It’s about having something to protect: your autonomy, your dignity, and your right to be yourself.</em></p></blockquote><hr><h2 id="🎯-What-I-Do"><a href="#🎯-What-I-Do" class="headerlink" title="🎯 What I Do"></a>🎯 What I Do</h2><p>I create tools that:</p><ul><li>✨ Prioritize user experience over feature bloat</li><li>🔒 Keep your data local and secure</li><li>🌱 Respect your time and attention</li><li>🚀 Focus on simplicity and elegance</li></ul><p>Every line of code I write is guided by one principle: <strong>technology should empower individuals, not exploit them.</strong></p><hr><h2 id="🏃‍♂️-Beyond-the-Screen"><a href="#🏃‍♂️-Beyond-the-Screen" class="headerlink" title="🏃‍♂️ Beyond the Screen"></a>🏃‍♂️ Beyond the Screen</h2><p>When I’m not coding, you’ll find me:</p><ul><li>🛹 <strong>Skateboarding</strong> through city streets</li><li>🚴 <strong>Cycling</strong> on scenic routes</li><li>🚶 <strong>Power walking</strong> to clear my mind</li></ul><p>These activities remind me that the best solutions often come when we step away from the keyboard and reconnect with the physical world.</p><hr><h2 id="🌍-My-Values"><a href="#🌍-My-Values" class="headerlink" title="🌍 My Values"></a>🌍 My Values</h2><ul><li><strong>User sovereignty</strong>: You should control your technology, not the other way around</li><li><strong>Digital minimalism</strong>: Less is more when it comes to features</li><li><strong>Open communication</strong>: Transparency builds trust</li><li><strong>Continuous learning</strong>: Every project is an opportunity to grow</li><li><strong>Sustainability</strong>: Building for the long term, not quick profits</li></ul><hr><h2 id="📬-Get-in-Touch"><a href="#📬-Get-in-Touch" class="headerlink" title="📬 Get in Touch"></a>📬 Get in Touch</h2><p>I’m always excited to connect with fellow developers, designers, and users who share these values.</p><ul><li>📧 Email: <a href="mailto:&#x68;&#x61;&#111;&#x6c;&#101;&#x69;&#113;&#64;&#x67;&#109;&#97;&#x69;&#108;&#46;&#x63;&#x6f;&#109;">haoleiq@gmail.com</a></li><li>🌐 Website: <a href="https://harry-studio.github.io/app">harry-studio.github.io&#x2F;app</a></li></ul><p>Whether you have a question, feedback, or just want to chat about technology and user freedom, feel free to reach out!</p><hr><p><em>“The best technology is the technology you don’t notice — it simply works, respects you, and gets out of your way.”</em></p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>📬联系</title>
       <link href="/blog/contact/index.html"/>
       <url>/blog/contact/index.html</url>
       
-        <content type="html"><![CDATA[<ul><li>📫: <a href="mailto:&#x48;&#x61;&#111;&#108;&#101;&#x69;&#x51;&#64;&#103;&#109;&#97;&#105;&#x6c;&#46;&#x63;&#x6f;&#x6d;">HaoleiQ@gmail.com</a></li></ul>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/blog/categories/index.html"/>
-      <url>/blog/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<ul><li>📫: <a href="mailto:&#72;&#97;&#x6f;&#108;&#101;&#x69;&#x51;&#64;&#x67;&#x6d;&#97;&#x69;&#108;&#x2e;&#x63;&#111;&#109;">HaoleiQ@gmail.com</a></li></ul>]]></content>
       
     </entry>
     
@@ -67,6 +56,17 @@
       <title>标签</title>
       <link href="/blog/tags/index.html"/>
       <url>/blog/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/blog/categories/index.html"/>
+      <url>/blog/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
