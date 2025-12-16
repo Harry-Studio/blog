@@ -1,6 +1,5 @@
-https://harry-studio.github.io/blog/about/index.html
 https://harry-studio.github.io/blog/p/27873/
-https://harry-studio.github.io/blog/p/23355/
+https://harry-studio.github.io/blog/about/index.html
 https://harry-studio.github.io/blog/contact/index.html
 https://harry-studio.github.io/blog/404/index.html
 https://harry-studio.github.io/blog/tags/index.html
