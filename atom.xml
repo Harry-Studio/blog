@@ -6,7 +6,7 @@
   <link href="https://harry-studio.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://harry-studio.github.io/blog/"/>
-  <updated>2025-12-16T04:32:39.541Z</updated>
+  <updated>2025-12-23T07:52:08.681Z</updated>
   <id>https://harry-studio.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Third-party sync API (wealth trees)</title>
+    <link href="https://harry-studio.github.io/blog/p/16167/"/>
+    <id>https://harry-studio.github.io/blog/p/16167/</id>
+    <published>2026-01-02T13:12:04.000Z</published>
+    <updated>2025-12-23T07:52:08.681Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Third-party-sync-API-wealth-trees"><a href="#Third-party-sync-API-wealth-trees" class="headerlink" title="Third-party sync API (wealth trees)"></a>Third-party sync API (wealth trees)</h1><p>Base URL: your server endpoint (e.g. <code>https://example.com/api/xxx</code>).</p><h2 id="Auth"><a href="#Auth" class="headerlink" title="Auth"></a>Auth</h2><p>If the user enters an API Key in the app, it is sent as:</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">X-API-Key: &#123;apiKey&#125;</span><br></pre></td></tr></table></figure><p>If left blank, no Authorization header is added.</p><h2 id="Upload"><a href="#Upload" class="headerlink" title="Upload"></a>Upload</h2><p><code>POST &#123;base&#125;</code></p><figure class="highlight json"><table><tr><td class="code"><pre><span class="line"><span class="punctuation">&#123;</span></span><br><span class="line">  <span class="attr">&quot;user_id&quot;</span><span class="punctuation">:</span> <span class="string">&quot;string&quot;</span><span class="punctuation">,</span>              <span class="comment">// required</span></span><br><span class="line">  <span class="attr">&quot;app_name&quot;</span><span class="punctuation">:</span> <span class="string">&quot;WealthTrees&quot;</span><span class="punctuation">,</span>         <span class="comment">// fixed</span></span><br><span class="line">  <span class="attr">&quot;name&quot;</span><span class="punctuation">:</span> <span class="string">&quot;wealthtree-backup&quot;</span><span class="punctuation">,</span>          <span class="comment">// fixed</span></span><br><span class="line">  <span class="attr">&quot;remark&quot;</span><span class="punctuation">:</span> <span class="string">&quot;iOS backup from wealth trees&quot;</span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;sync_type&quot;</span><span class="punctuation">:</span> <span class="string">&quot;upload&quot;</span><span class="punctuation">,</span>            <span class="comment">// indicates upload intent</span></span><br><span class="line">  <span class="attr">&quot;data&quot;</span><span class="punctuation">:</span> <span class="punctuation">[</span>                         <span class="comment">// array of entries</span></span><br><span class="line">    <span class="punctuation">&#123;</span></span><br><span class="line">      <span class="attr">&quot;id&quot;</span><span class="punctuation">:</span> <span class="string">&quot;UUID&quot;</span><span class="punctuation">,</span></span><br><span class="line">      <span class="attr">&quot;startDate&quot;</span><span class="punctuation">:</span> <span class="string">&quot;2024-01-01T00:00:00Z&quot;</span><span class="punctuation">,</span></span><br><span class="line">      <span class="attr">&quot;note&quot;</span><span class="punctuation">:</span> <span class="string">&quot;&quot;</span><span class="punctuation">,</span></span><br><span class="line">      <span class="attr">&quot;isPredicted&quot;</span><span class="punctuation">:</span> <span class="literal"><span class="keyword">false</span></span><span class="punctuation">,</span></span><br><span class="line">      <span class="attr">&quot;sequence&quot;</span><span class="punctuation">:</span> <span class="number">1</span><span class="punctuation">,</span></span><br><span class="line">      <span class="attr">&quot;type&quot;</span><span class="punctuation">:</span> <span class="string">&quot;come&quot;</span><span class="punctuation">,</span></span><br><span class="line">      <span class="attr">&quot;cycleLength&quot;</span><span class="punctuation">:</span> <span class="number">28</span></span><br><span class="line">    <span class="punctuation">&#125;</span></span><br><span class="line">  <span class="punctuation">]</span></span><br><span class="line"><span class="punctuation">&#125;</span></span><br></pre></td></tr></table></figure><p>Returns: JSON with <code>code</code>, <code>message</code>, and optional <code>data</code> from server.</p><h2 id="Download"><a href="#Download" class="headerlink" title="Download"></a>Download</h2><p><code>GET &#123;base&#125;/?user_id=xxx&amp;app_name=WealthTrees&amp;sync_type=download</code></p><p>Response <code>data</code> should be an array of entries in the same shape as upload <code>data</code> (fields listed above). The app merges&#x2F;overwrites based on the selected mode. Optional Basic Auth headers are sent when username&#x2F;password are provided in the UI.</p>]]></content>
+    
+    
+    <summary type="html">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Third-party sync API (Esay Period)</title>
